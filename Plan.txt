@@ -1,0 +1,64 @@
+27/09/2021 start of class
+29/09/2021 assigned project    
+
+11/10/2021                        : research algorithms, strengths, weaknesses etc. get research papers to use
+				    in my dissertation and to back up my findings. explore existing research   
+
+25/10/2021                        : write a program to simulate each algorithm
+
+01/11/2021                        : start testing on data sets and perform analysis
+
+15/11/2021                        : which algorithm would work best on my data set and run it
+
+22/11/2021                        : analyse and discuss results produced on my data set by the algorithms
+
+end of class
+03/12/2021                        : think about structure of my dissertation and do research on those areas
+				    write 2 page prograss summary to be sent to supervisor
+
+week 12 - 13 ~ 40 hours a week
+then christmas holidays
+
+			* aim for end of semester 1 is to have all programming done, all data collected
+			  and majority of research completed and multiple papers found to be 
+
+
+start of class
+10/01/2022                        : start writing dissertation
+
+25/03/2022 end of class
+
+			*dissertation deadline not yet released but i would like to be 
+			 purely adding finishing touches 2 weeks before the deadline
+			 so as not to be leaving anything to the last minute*
+
+
+
+
+
+03/12/2021 end of class
+
+week 12 - 13 ~ 40 hours a week
+end of week 13 submit 2 page summary to supervisor
+
+christmas holidays
+
+10/01/2022 start of class
+
+25/03/2022 end of class
+
+deadline not yet announced
+
+
+
+
+want to get some good research done next 2 weeks
+
+week after write a program that does all algs 
+
+empirical analysis
+get my real data
+simulate program on real data
+
+by end of christmas get all research and programs done
+
