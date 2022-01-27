@@ -1,3 +1,6 @@
+import pprint
+import sys
+
 def readFile(filename):     #works with numbers as keys
     Graph = {}
     with open (filename, 'r') as f:
@@ -16,8 +19,7 @@ def readFile(filename):     #works with numbers as keys
     return Graph
 
 
-
- 
-    
-#print(readFile("Graph2.txt"))
+if len(sys.argv) != 2: 
+    if sys.argv[2] == "print":
+        pprint.pprint(readFile("Graph3.txt"))
         

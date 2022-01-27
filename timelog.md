@@ -150,6 +150,46 @@
 
 * *0.5 hours* typing up meeting notes and putting some files on github
 
+### 03/12/2021
+
+* *1.5 hours* sorting programs to read Graphs from files and fixes
+* *1 hours* Github headache
+
+
+## Week 11
+
+### 10/01/2022
+
+* *2* Trying to sort SSH problems and error testing
+* *0.5 hours* Met with supervisor to discuss project
+* *1.5 hours* locating and fixing an error in my generator and fixed Kruskals algorithm. worked on fixing Boruvskas algorithm
+
+### 16/01/2022
+
+* *1 hour* Sorting error in Boruvska's algorithm where a duplicate component could be created
+* *5 hours* Trying to fix errors in Kruskals algorithm with detect cycle functiuon
+
+
+## Week 12
+
+### 19/01/2022
+
+* *6 hours* Fixed Detect cycle function in Kruskals algorithm
+
+### 21/01/2022
+
+* *1 hour* Meeting with Ian (also doing MST algs) to discuss how to implement correctness testing between our algorithms
+* *30 mins* Fixing errors in my program
+
+### 22/01/2022
+
+* *4 hours* research on TSP problem. Adapted generator to make graphs with #edges = #vertices and 
+
+### 21/01/2022
+
+* *3 hours* implementing MST approximation for solving TSP problem.  Research into triangle inequality in real life and google maps API
+* *1 hour* trying to speed up detecting cycles in kruskals
+
 
 
 

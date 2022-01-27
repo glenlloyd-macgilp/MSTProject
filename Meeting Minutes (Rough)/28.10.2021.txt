@@ -1,0 +1,6 @@
+topological ordering for cycle detection ? use BFS. do my implementationt too
+look at her alg, check for 2 vals in same key too
+
+
+
+documented code, coding styles. not git commits

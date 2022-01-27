@@ -1,0 +1,13 @@
+https://www.researchgate.net/profile/Peace_Ayegba2/publication/340975690_A_Comparative_Study_Of_Minimal_Spanning_Tree_Algorithms/links/5eadfd28a6fdcc7050a49374/A-Comparative-Study-Of-Minimal-Spanning-Tree-Algorithms.pdf
+
+Boruvka’s algorithm
+
+real data sets and compare
+
+research to find a practical use and find data 
+pros and cons of algs
+make a 6 monmths plan
+
+meeting 11:30 on thursday
+S134, Sir Alwyn Williams Building. (end of corridor)
+

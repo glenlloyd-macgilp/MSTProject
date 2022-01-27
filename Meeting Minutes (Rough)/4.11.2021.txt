@@ -1,0 +1,5 @@
+First 2 weeks of november meet online on zoom
+dict of sets to represent MST? order doesnt matter
+Kruskals shouldnt use a list for MST as it must be queried
+Cycles, vals in a dict being repeated ?  set(dict.key())
+make small literature reviews as i find articles

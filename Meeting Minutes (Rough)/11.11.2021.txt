@@ -1,0 +1,9 @@
+maybe checks ? asserts all keys ...
+think about what sort of study i want to do and what i want to get out of it
+
+work on making PrimsAlg represent MST as dict of sets
+make PrimsAlg use a binary heap etc
+make KruskalsAlg sort edges
+make a graph generator
+make all algs read in a file instead of hard coded graph
+think about parallel boruvska ?

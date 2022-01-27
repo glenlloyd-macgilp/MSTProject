@@ -1,0 +1,5 @@
+i want to do more in depth correctness testing accross all my algs
+start working on analysis
+look into parallel boruvka but its looking unlikely that itll be in scope to implement
+first meeting with be week beginning 10th. Sofiat will email about times the week before
+report due 17th dec

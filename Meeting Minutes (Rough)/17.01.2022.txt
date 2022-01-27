@@ -1,0 +1,4 @@
+Next weeks meeting is online
+Look into the union find data structure for detecting cycles
+DO TSP + analysis for next week
+look into improving the generator

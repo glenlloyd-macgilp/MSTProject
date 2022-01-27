@@ -4,9 +4,11 @@ import sys
 from Functions import readFile
 
 def Boruvkas(Graph):
+    total = 0
     #init MST as empty dict and components as a set of all vertices
     MST = {}
     components = [set([item]) for item in list(Graph.keys())] #list of sets
+    # set of sets ???
     
     while (len(components) > 1):    #keep looping through components until there is only 1 left
         for component in components:
@@ -20,29 +22,43 @@ def Boruvkas(Graph):
                 del Graph[bestvertexFROM][bestvertexTO]
                 del Graph[bestvertexTO][bestvertexFROM]
                 bestvertexFROM, bestvertexTO = findShortestEdge(Graph, component)
-                addEdge(bestvertexFROM, bestvertexTO)
+                addEdge(MST, [bestvertexFROM, bestvertexTO])
             
             #best edge and no cycle, merge components and remove edge from Graph
             mergeComponents(components, bestvertexFROM, bestvertexTO)
+            total += Graph[bestvertexFROM][bestvertexTO]
             del Graph[bestvertexFROM][bestvertexTO]
             del Graph[bestvertexTO][bestvertexFROM] 
                    
-    return MST
+    return MST, total
 
 def mergeComponents(components, bestvertexFROM, bestvertexTO):
     optimise = 0
     for component in components:
-        if bestvertexFROM in component:
-            component1 = component            
+
+        #if bestvertexFROM in component:       
+            #component1 = component              
+            #optimise += 1
+        #if bestvertexTO in component:
+            #component2 = component            
+            #optimise += 1
+            
+        if bestvertexFROM in component:       
+            component1 = component              
             optimise += 1
-        if bestvertexTO in component:
+        elif bestvertexTO in component:
             component2 = component            
             optimise += 1
-        if optimise == 2: 
+
+        if optimise == 2: #trying to merge the same component ? maybe problem in few lines above ?
+            #print(bestvertexFROM, bestvertexTO)
+            #print(component1, component2)
             components.remove(component1)
             components.remove(component2)
             components.append(component1.union(component2))
             return
+            
+
                 
 def findShortestEdge(Graph, component):
     min = 999

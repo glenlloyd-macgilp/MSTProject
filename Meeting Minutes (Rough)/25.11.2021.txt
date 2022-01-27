@@ -1,0 +1,5 @@
+set([1]) not set(1)
+upload to get and another cloud storage platform for safety
+start analysis then TSP
+think about a web app for TSP ? other people being able to use it ?
+last meeting this year will be Monday 12Pm 6th December online on zoom
